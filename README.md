@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1) Crie um projeto utilizando ReactJS; <br />
+Este projeto será basicamente um formulário, contendo os campos: <br />
+altura<br />
+peso;<br />
+2) A partir dessas informações calcule o IMC;<br />
+3) Retorne o IMC e a classificação na tabela;<br />
+4) Em um novo repositório armazene o código da tarefa;<br />
